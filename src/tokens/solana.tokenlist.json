@@ -1,0 +1,10 @@
+,
+  {
+    "chainId": 101,
+    "address": "98rgg8ppffPoBw6T2qmDLqDJ4cJaejfths6AGW21pump",
+    "symbol": "RBA",
+    "name": "Reborn Adulta",
+    "decimals": 9,
+    "logoURI": "https://rebornadulta.com/logo_reborn_adulta.png",
+    "tags": ["meme", "community"]
+  }
